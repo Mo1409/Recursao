@@ -56,6 +56,8 @@ def G(n):
 
 
 #EXERCICIO 3
+#resultado 0 = nao pertence
+#resultado 1 = pertence
 def terceira1(n):
     if n == 2:
         return 1
