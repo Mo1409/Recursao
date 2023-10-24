@@ -68,4 +68,9 @@ def terceira1(n):
             return 0
 print(terceira1(7))
 
-#EXERCICIO 4
+#EXERCICIO 9
+def nona(n):
+  if n ==1:
+      return 1
+  else:
+      return nona(n-1)+n
